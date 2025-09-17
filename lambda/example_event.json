@@ -1,0 +1,13 @@
+{
+    "Records": [
+      {
+        "eventID": "1",
+        "eventName": "ObjectCreated:Put",
+        "s3": {
+          "bucket": { "name": "my-test-bucket" },
+          "object": { "key": "testfile.txt" }
+        }
+      }
+    ]
+  }
+  
